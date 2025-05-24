@@ -1,0 +1,13 @@
+name = "New-mods"
+author = "Silverdev2482"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "873d15c729344dd22fca4b1dd836d3920ec891908fef01a753bb963814d449d7"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.4"
