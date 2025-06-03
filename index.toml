@@ -91,6 +91,11 @@ hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
+file = "mods/revert-23w46a.pw.toml"
+hash = "634a37f7a6745f95301313d76eb5fa0ac885d74275cfe2ce4ca6f87ab2cc0f4f"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "b6114e701544879f0049963e08f47b305c02c9203aad10b2f73f17e998245a36"
 metafile = true
