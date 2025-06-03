@@ -106,5 +106,5 @@ hash = "1ceda9c6325cc9e51e2cc05dc62ac10801c087549a5125c7bc4198f6b9e58f70"
 metafile = true
 
 [[files]]
-file = "mods/voice-chat-discord-bridge.jar"
-hash = "297cb37b0fc6fcf716f958cfde481188b2e9b57bcb3599a336245d789836f521"
+file = "mods/voicechat-discord-fabric-3.0.10.jar"
+hash = "9af6107dd22a968836cd9a341d100c0f81d091ebfd1438c09d405162b2d7020d"
