@@ -106,6 +106,5 @@ hash = "1ceda9c6325cc9e51e2cc05dc62ac10801c087549a5125c7bc4198f6b9e58f70"
 metafile = true
 
 [[files]]
-file = "mods/vc-discord.pw.toml"
-hash = "6150c36887792c50008c4cf204e092f295dbe42f3d5f4240c288432faf43a7d3"
-metafile = true
+file = "mods/voice-chat-discord-bridge.jar"
+hash = "297cb37b0fc6fcf716f958cfde481188b2e9b57bcb3599a336245d789836f521"

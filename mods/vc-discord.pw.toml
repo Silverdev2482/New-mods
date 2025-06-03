@@ -1,7 +1,0 @@
-name = "vc-discord"
-filename = "vc-discord.jar"
-
-[download]
-url = "https://modrinth.com/plugin/simple-voice-chat-discord-bridge/version/aDOGmnah"
-hash-format = "sha256"
-hash = "33e9813d2ada4ee270d316706161e921e9b23960ae20096cf20937ee54dbbfbd"
