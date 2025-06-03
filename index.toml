@@ -26,6 +26,11 @@ hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "00748986d1ead018cbcd56fa688020dee2038dfb7acd69105a677f60c8cd2f0d"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
 metafile = true
@@ -61,6 +66,16 @@ hash = "c66547cc176ee95508ab977f9eec6b8d7949a36b8ef77ef96edb0ced4b412bce"
 metafile = true
 
 [[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "29b65685ebe7ec284bc57c1cd769634845841b4fc72acbf46c869c91f172afe2"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "436268156001772bd0fa1c2043eae648dc1dbcab573dc41d2b156483267ef1b2"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
@@ -88,4 +103,9 @@ metafile = true
 [[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "1ceda9c6325cc9e51e2cc05dc62ac10801c087549a5125c7bc4198f6b9e58f70"
+metafile = true
+
+[[files]]
+file = "mods/vc-discord.pw.toml"
+hash = "6150c36887792c50008c4cf204e092f295dbe42f3d5f4240c288432faf43a7d3"
 metafile = true
