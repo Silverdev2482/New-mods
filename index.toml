@@ -56,6 +56,11 @@ hash = "c188bba50d7c83f489e78d767eb049fb57b452b2fe291562e9b6ae98029e034e"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "c66547cc176ee95508ab977f9eec6b8d7949a36b8ef77ef96edb0ced4b412bce"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
