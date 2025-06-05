@@ -31,11 +31,6 @@ hash = "00748986d1ead018cbcd56fa688020dee2038dfb7acd69105a677f60c8cd2f0d"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "2ad8cd5745efd0bd0f7f32f060bec092a7b2ef8ac3c6163033193a8277012e43"
-metafile = true
-
-[[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "c97f0e6ca5eea2752b2b3e7a2e0bdc86e42d03851ab3d5570f5c4b08b84dbeca"
 metafile = true
