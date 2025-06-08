@@ -71,11 +71,6 @@ hash = "c66547cc176ee95508ab977f9eec6b8d7949a36b8ef77ef96edb0ced4b412bce"
 metafile = true
 
 [[files]]
-file = "mods/improved-anvils.pw.toml"
-hash = "9361dd69794f481b8cb7d56260d9860c9f1235284a9d3d9ce83c751c25a7878f"
-metafile = true
-
-[[files]]
 file = "mods/ledger-databases.pw.toml"
 hash = "29b65685ebe7ec284bc57c1cd769634845841b4fc72acbf46c869c91f172afe2"
 metafile = true
