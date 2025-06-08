@@ -1,0 +1,13 @@
+name = "Improved Anvils"
+filename = "Improved_Anvils-1.1.1-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xjFXbsyG/versions/dKwJDm97/Improved_Anvils-1.1.1-1.21.4.jar"
+hash-format = "sha512"
+hash = "cfef2090b04c632cb0dc86c40f03772124f66d0ca05da6cc9a2f81c8baed09a64a322733dfffd0d7e4823d0e10753f9d099856ecc2a157022b81c12a0fab2713"
+
+[update]
+[update.modrinth]
+mod-id = "xjFXbsyG"
+version = "dKwJDm97"

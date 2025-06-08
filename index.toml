@@ -26,8 +26,18 @@ hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "1f6010a41f9c833fdf09506226a722d91e0e358d5c7fa6eebce6b0c111c5f0a8"
+metafile = true
+
+[[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "00748986d1ead018cbcd56fa688020dee2038dfb7acd69105a677f60c8cd2f0d"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "b34eda338756bf6c3d14b946e9c3233b8405227b38f14abd2fb8c93989a269c3"
 metafile = true
 
 [[files]]
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/floodgate.pw.toml"
 hash = "c66547cc176ee95508ab977f9eec6b8d7949a36b8ef77ef96edb0ced4b412bce"
+metafile = true
+
+[[files]]
+file = "mods/improved-anvils.pw.toml"
+hash = "9361dd69794f481b8cb7d56260d9860c9f1235284a9d3d9ce83c751c25a7878f"
 metafile = true
 
 [[files]]
